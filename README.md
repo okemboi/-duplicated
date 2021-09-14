@@ -1,0 +1,2 @@
+# letastock
+reta stop repo
